@@ -1,4 +1,4 @@
-                                           STUDENT DEPRESSION ANALYSIS
+# STUDENT DEPRESSION ANALYSIS
 
 ## Objective: To conduct a comprehensive analysis of student’s data using different metrics in the dataset to find out key insights into student’s depression and visualize the same using Tableau.
 
