@@ -43,4 +43,4 @@ To conduct a comprehensive analysis of student’s data using different metrics 
 4.	Dietary habits display the strongest relationship with depression as students with unhealthy habits are way more likely to be depressed compared to students with healthy 
     ones.
 
-![Image Alt](image_url)   
+![Image Alt](https://github.com/Sujato-Dutta/Student-Depression-Analysis/blob/f67c768ac24419a56449f3f1558b7ac03f49f315/Student%20Depression%20Dashboard.jpg)   
